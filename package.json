@@ -1,0 +1,28 @@
+{
+  "name": "dronekitjs",
+  "version": "0.0.1",
+  "description": "This is dronekit for JavaScript",
+  "main": "src/dronekit.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tajisoft/dronekit-js.git"
+  },
+  "keywords": [
+    "DroneKit",
+    "NodeJS",
+    "MAVLink",
+    "DroneSDK"
+  ],
+  "author": "Tsuyoshi Kawamura <kawamura@tajisoft.jp> (https://github.com/tajisoft)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tajisoft/dronekit-js/issues"
+  },
+  "homepage": "https://github.com/tajisoft/dronekit-js#readme",
+  "dependencies": {
+    "xml2js": "^0.4.22"
+  }
+}
